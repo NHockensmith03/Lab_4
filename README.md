@@ -6,8 +6,8 @@ This Webpage contains a landcover map of kentucky with counties along with a map
 ## Kentucky Landcover 
 This is a map of Kentucky Counties with their landcover types
 
-![Kentucky Counties](Layout_KY_Landcover.jpg)   
-Kentucky counties with selected land cover types – [Download geospatial PDF](Layout_KY_Landcover.pdf)
+![Kentucky Counties](Layout_KY_LandCover.jpg)   
+Kentucky counties with selected land cover types – [Download geospatial PDF](Layout_KY_LandCover.pdf)
 
 ## University of Kentucky Tree Canopy
 Map for field trip to measure tree canopy
