@@ -1,5 +1,3 @@
-<!DOCTYPE html >
-
 # GEO409 Lab_4
 This Webpage contains a landcover map of kentucky with counties along with a map of tree hight located on central campus of the University of Kentucky.
 
